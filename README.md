@@ -1,5 +1,7 @@
 # Destroy AES
 
+![Destroy AES Banner](images/Destroy_AES.png)
+
 A powerful Burp Suite extension for automatically decrypting and encrypting AES-encrypted HTTP requests and responses. Perfect for security audits and penetration testing of applications using AES encryption.
 
 ## 🎯 Features
@@ -206,10 +208,6 @@ Check the extension logs in Burp Suite:
 ## 🔒 Security Note
 
 This extension is designed for security testing and auditing purposes only. Use responsibly and only on systems you own or have explicit permission to test.
-
-## 📄 License
-
-[Specify your license here]
 
 ## 🤝 Contributing
 
