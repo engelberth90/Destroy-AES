@@ -46,7 +46,7 @@ The extension uses the following dependencies (automatically managed by Maven):
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/destroy-aes.git
+   git clone https://github.com/engelberth90/Destroy-AES.git
    cd destroy-aes
    ```
 
