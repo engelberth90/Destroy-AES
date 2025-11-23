@@ -1,0 +1,7 @@
+burp\BurpExtension$MyContextMenuProvider.class
+burp\BurpExtension.class
+burp\HttpHandler.class
+burp\ConfigPanel.class
+burp\CryptoHelper.class
+burp\CryptoConfig.class
+burp\ProxyHandler.class
